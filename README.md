@@ -1,8 +1,11 @@
 # CMML Replication Codes 
 
-This repository contains R scripts used for our manuscript. The goal of this README is to help readers reproduce the analyses and regenerate the key tables and figures.
+This repository contains R scripts used for our manuscript, which aims to help readers reproduce the analyses and regenerate the key tables and figures. Please cite the following papers if you are using the codes in this repo:
 
-> **Note:** Patient-level source data (CSV/Excel files) are not included in this repository. You will need access to the original data files described below and place them in the same directory as these scripts (or update paths accordingly).
+> Montalban-Bravo, G., Wu, C., Rodriguez-Sevilla, J. J., Wei, Y., Chien, K., Bouligny, I., ... & Loghavi, S. (2025). Consideration of genomic determinants improves the diagnostic accuracy of oligomonocytic chronic myelomonocytic leukemia. Blood Cancer Discovery, accepted.
+
+**Note:** Patient-level source data (CSV/Excel files) are not included in this repository. You will need access to the original data files described below and place them in the same directory as these scripts (or update paths accordingly).
+
 
 ---
 
